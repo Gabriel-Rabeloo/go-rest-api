@@ -1,0 +1,12 @@
+{
+  "name": "go-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.go",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --exec go run main.go --signal SIGTERM"
+  },
+  "author": "Gabriel Rabelo",
+  "license": "ISC"
+}
